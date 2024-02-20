@@ -16,19 +16,18 @@
                                 <a data-parent="#exp-accordion" data-toggle="collapse" class="card-toggle collapsed"
                                     href="#experience6" aria-expanded="false">
                                     <i class="fas fa-chevron-down"></i>
-                                    SCHLESINGER GROUP (<i>Software Engineer </i>)
+                                    IQ BUSSINUS GROUP(<i>Software Developer </i>)
                                 </a>
-                                <span>June 2021 - Present</span>
+                                <span>June 2024 - Present</span>
                             </h4>
                         </div>
 
                         <div class="card-collapse collapse" id="experience6">
                             <div class="card-body p-4 bg-white">
                                 <ul>
-                                  <li>Lead and mentored junior team members, providing guidance and assistance
-with their tasks.
+                                  <li>Lead and mentored junior team members, providing guidance and assistance with their tasks.
                                     </li>
-                                    <li>Managing the deployment process on the Azure DevOps platform.
+                                    <li>Managing the deployment process on the  DevOps platform.
                                     </li>
                                     <li>
                                       Consistently achieved on-time delivery of tasks and projects.
@@ -44,9 +43,9 @@ with their tasks.
                                 <a data-parent="#exp-accordion" data-toggle="collapse" class="card-toggle collapsed"
                                     href="#experience4" aria-expanded="false">
                                     <i class="fas fa-chevron-down"></i>
-                                    SYNAPSE INDIA (<i>Software Engineer </i>)
+                                    UNIVERSITY PROJECTS(<i>Software Developer</i>)
                                 </a>
-                                <span>October 2019 - May 2021</span>
+                                <span>October 2019 - June 2023</span>
                             </h4>
                         </div>
 
@@ -54,12 +53,10 @@ with their tasks.
                             <div class="card-body p-4 bg-white">
 
                                 <ul>
-                                    <li>Managed multiple projects simultaneously, ensuring efficient execution and
-timely completion.
+                                    <li>Managed multiple projects simultaneously, ensuring efficient execution and timely completion.
                                     </li>
                                     <li>
-                                      Effectively communicated with clients to understand their requirements and
-provided suggestions to enhance the product.
+                                      Effectively communicated with clients to understand their requirements and provided suggestions to enhance the product.
                                     </li>
                                 </ul>
                             </div>
@@ -81,10 +78,10 @@ provided suggestions to enhance the product.
                         <div class="card-collapse collapse" id="experience1">
                             <div class="card-body p-4 bg-white">
                                 <ul>
-                                    <li>Developed a Round Robin Algorithm.
+                                    <li>Developed a school Management system.
                                     </li>
                                     <li>
-                                      Contributed to various small tasks within the project.
+                                      Contributed to various tasks within the project.
                                     </li>
                                 </ul>
                             </div>

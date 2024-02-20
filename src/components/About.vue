@@ -6,8 +6,8 @@
                         <h3 class="title-text text-uppercase">Hey, I am Tesfay👋</h3>
                         <h4 class="text-uppercase">I am a <span id="subheading">{{ typeValue }} <span class="blinking-cursor">|</span> <span class="cursor" :class="{ typing: typeStatus }">&nbsp;</span></span> </h4>
                         <hr>
-                        <p>🔥 Experienced web developer with 6+ years of expertise in software development.</p>
-                        <p data-aos="zoom-in" data-aos-duration="1500">🚀 Passionate about exploring the edges of full stack, adept at building end-to-end web applications.</p>
+                        <p> Experienced web developer by developing different systems in MIT Mekelle institute of technology </p>
+                        <p data-aos="zoom-in" data-aos-duration="1500"> Passionate about exploring the edges of full stack, adept at building end-to-end web applications.</p>
                         <p   v-motion="{
       initial: {
         y: 100,
@@ -17,7 +17,7 @@
         y: 0,
         opacity: 1
       }
-    }">📚 Have a strong appetite to learn new technologies in a short span and implement independently.</p>
+    }">Have a strong appetite to learn new technologies in a short span and implement independently.</p>
                         <p   v-motion="{
       initial: {
         y: 100,
@@ -27,7 +27,7 @@
         y: 0,
         opacity: 1
       }
-    }">🔒 Proficient in Laravel, Vue.js, and JavaScript, committed to developing high standards secure web applications with good coding standards.</p>
+    }">Proficient in Nodejs, Laravel, Vue.js, and JavaScript, and Django committed to developing high standards secure web applications with good coding standards.</p>
                         <p   v-motion="{
       initial: {
         y: 100,
@@ -37,7 +37,7 @@
         y: 0,
         opacity: 1
       }
-    }">⭐️ Committed to delivering in both backend and full stack development.</p>
+    }">Committed to delivering in both backend and full stack development.</p>
     <p><github-button href="https://github.com/tesfish2012">Follow @tesfish2012</github-button></p>
                         <hr>
                         <div class="social">
@@ -52,7 +52,7 @@
                         <div class="site-buttons">
                             <div class="d-flex flex-row flex-wrap">
                                 <button type="button" class="btn button primary-button mr-4 text-uppercase first-btn"><a
-                                        href="https://drive.google.com/file/d/1xe3pfKmqHvVcV5l-hQPhlcp12dSEhP4g/view" target="_blank">RESUME &nbsp;<i
+                                        href="https://drive.google.com/file/d/1M9NyA8nOhFeTHXYgrihlyerOK7EXUEgn/view" target="_blank">RESUME &nbsp;<i
                                             class="fas fa-external-link-alt" aria-hidden="true"></i></a></button>
                                 <button type="button" class="btn button secondary-button text-uppercase second-btn"><a
                                         href="mailto: tesfay3814@gmail.com">Hire Me</a></button>
@@ -83,7 +83,7 @@ export default {
     return {
       typeValue: "",
       typeStatus: false,
-      displayTextArray: ['SOFTWARE ENGINEER', 'FULL STACK DEVELOPER', 'LARAVEL DEVELOPER', 'Freelancer'],
+      displayTextArray: ['Software Developer', 'Full Stack Developer', 'Nodejs Developer', 'Vuejs Developer','Laravel Developer','Django Developer'],
       typingSpeed: 100,
       erasingSpeed: 100,
       newTextDelay: 2000,
