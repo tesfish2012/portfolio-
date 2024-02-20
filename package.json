@@ -1,54 +1,36 @@
 {
-  "name": "devfolio",
-  "version": "0.0.1",
-  "description": "Developer portfolio in Vue.js and Bootstrap 5",
-  "main": "index.js",
+  "name": "portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build && cp CNAME dist",
-    "lint": "vue-cli-service lint"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "sh deploy.sh"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^6.1.2",
-    "@fortawesome/free-brands-svg-icons": "^6.1.2",
-    "@fortawesome/free-regular-svg-icons": "^6.1.2",
-    "@fortawesome/free-solid-svg-icons": "^6.1.2",
-    "@fortawesome/vue-fontawesome": "^3.0.1",
+    "@lottiefiles/lottie-player": "^2.0.2",
+    "@studio-freight/lenis": "^1.0.19",
+    "@vueuse/motion": "^2.0.0",
     "aos": "^2.3.4",
-    "bootstrap": "^5.2.0",
-    "core-js": "^3.24.1",
-    "vue": "^3.2.37",
-    "vue-meta": "^3.0.0-alpha.10",
-    "vue-router": "^4.1.4",
-    "vuex": "^4.0.2"
+    "bootstrap": "^4.0.0",
+    "devicon": "^2.15.1",
+    "v-viewer": "^3.0.11",
+    "vue": "^3.3.4",
+    "vue-github-button": "^3.1.0",
+    "vue-router": "^4.0.13",
+    "vue3-highlightjs": "^1.0.5",
+    "vue3-lottie": "^3.0.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.18.10",
-    "@babel/eslint-parser": "^7.18.9",
-    "@vue/cli-plugin-babel": "~5.0.8",
-    "@vue/cli-plugin-eslint": "~5.0.8",
-    "@vue/cli-plugin-vuex": "~5.0.8",
-    "@vue/cli-service": "~5.0.8",
-    "eslint": "^8.22.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.2.1",
-    "eslint-plugin-vue": "^9.3.0",
-    "prettier": "^2.7.1",
-    "sass": "^1.54.5",
-    "sass-loader": "^13.0.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xtenzQ/xtenzQ.github.io.git"
-  },
-  "keywords": [
-    "portfolio",
-    "devfolio"
-  ],
-  "author": "Nikita Rusetskii",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/xtenzQ/xtenzQ.github.io/issues"
-  },
-  "homepage": "https://github.com/xtenzQ/xtenzQ.github.io#readme"
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "sass": "^1.64.1",
+    "sass-loader": "^13.3.2",
+    "vite": "^4.4.5",
+    "vite-plugin-pages": "^0.31.0",
+    "vite-plugin-pwa": "^0.16.4",
+    "vite-plugin-vue-markdown": "^0.23.7"
+  }
 }

@@ -1,28 +1,27 @@
-import { createApp } from "vue";
-import App from "./App.vue";
+import { createApp } from 'vue'
+import App from './App.vue'
+import router from './router'
+import VueViewer from 'v-viewer'
+import VueHighlightJS from 'vue3-highlightjs'
+import { MotionPlugin } from '@vueuse/motion'
+import AOS from 'aos'
+import Vue3Lottie from 'vue3-lottie'
+import ScrollAnimation from './directives/scrollAnimation'
 
-// router
-import router from "./router";
+import 'highlight.js/styles/default.css';
+import "bootstrap/dist/css/bootstrap.min.css"
+import "devicon/devicon.min.css"
+import "bootstrap"
+import '@fortawesome/fontawesome-free/css/all.css'
+import '@fortawesome/fontawesome-free/js/all.js'
+import 'viewerjs/dist/viewer.css'
 
-// bootstrap bundle
-import bootstrap from "bootstrap/dist/js/bootstrap.bundle";
-
-import { createMetaManager, defaultConfig } from "vue-meta";
-const metaManager = createMetaManager(false, {
-  ...defaultConfig,
-  meta: { tag: "meta", nameless: true },
-});
-
-// font aswesome
-import { library } from "@fortawesome/fontawesome-svg-core";
-import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
-import { faFileLines } from "@fortawesome/free-regular-svg-icons";
-import { faLinkedinIn, faGithub } from "@fortawesome/free-brands-svg-icons";
-library.add(faLinkedinIn, faGithub, faFileLines);
-
-createApp(App)
-  .use(bootstrap)
-  .component("font-awesome-icon", FontAwesomeIcon)
-  .use(router)
-  .use(metaManager)
-  .mount("#app");
+const app = createApp(App)
+app.use(VueHighlightJS)
+app.use(router)
+app.use(MotionPlugin)
+app.use(AOS)
+app.use(VueViewer)
+app.use(Vue3Lottie)
+app.directive('scrollanimation', ScrollAnimation)
+app.mount('#app')
