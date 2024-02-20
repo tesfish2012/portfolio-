@@ -3,7 +3,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-12 site-title">
-                        <h3 class="title-text text-uppercase">Hey, I am Boni👋</h3>
+                        <h3 class="title-text text-uppercase">Hey, I am Tesfay👋</h3>
                         <h4 class="text-uppercase">I am a <span id="subheading">{{ typeValue }} <span class="blinking-cursor">|</span> <span class="cursor" :class="{ typing: typeStatus }">&nbsp;</span></span> </h4>
                         <hr>
                         <p>🔥 Experienced web developer with 6+ years of expertise in software development.</p>
@@ -38,16 +38,16 @@
         opacity: 1
       }
     }">⭐️ Committed to delivering in both backend and full stack development.</p>
-    <p><github-button href="https://github.com/boni619">Follow @boni619</github-button></p>
+    <p><github-button href="https://github.com/tesfish2012">Follow @tesfish2012</github-button></p>
                         <hr>
                         <div class="social">
-                            <a target="_blank" rel="noreferrer" href="https://github.com/Boni619" class="social-link"><i
-                                    class="fab fa-github"></i></a>
-                            <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/boni619"
-                                class="social-link"><i class="fab fa-linkedin"></i></a>
-                            <a target="_blank" rel="noreferrer" href="https://twitter.com/gope_boni"
-                                class="social-link"><i class="fab fa-twitter"></i></a>
-                            <a href="mailto: boni619@gmail.com" class="social-link"><i class="fas fa-envelope"></i></a>
+                          <a target="_blank" rel="noreferrer" href="https://github.com/tesfish2012" class="social social-link"><i
+                                  class="fab fa-github"></i></a>
+                          <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/tesfay-g-tsadkan-181004195/"
+                              class="social social-link"><i class="fab fa-linkedin"></i></a>
+                          <a target="_blank" rel="noreferrer" href="https://t.me/@tesfaymit" class="social social-link">
+                              <i class="fab fa-telegram"></i> </a>
+                          <a href="mailto: tesfay3814@gmail.com" class="social social-link"><i class="fas fa-envelope"></i></a>
                         </div>
                         <div class="site-buttons">
                             <div class="d-flex flex-row flex-wrap">
@@ -55,7 +55,7 @@
                                         href="https://drive.google.com/file/d/1xe3pfKmqHvVcV5l-hQPhlcp12dSEhP4g/view" target="_blank">RESUME &nbsp;<i
                                             class="fas fa-external-link-alt" aria-hidden="true"></i></a></button>
                                 <button type="button" class="btn button secondary-button text-uppercase second-btn"><a
-                                        href="mailto: boni619@gmail.com">Hire Me</a></button>
+                                        href="mailto: tesfay3814@gmail.com">Hire Me</a></button>
                             </div>
                         </div>
                     </div>

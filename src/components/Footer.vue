@@ -7,13 +7,14 @@
                 </div>
                 <div class="text-center">
                     <h5 class="text-uppercase">Connect me on</h5>
-                    <a target="_blank" rel="noreferrer" href="https://github.com/Boni619" class="social social-link"><i
+                    <a target="_blank" rel="noreferrer" href="https://github.com/tesfish2012" class="social social-link"><i
                             class="fab fa-github"></i></a>
-                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/boni619"
+                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/tesfay-g-tsadkan-181004195/"
                         class="social social-link"><i class="fab fa-linkedin"></i></a>
-                    <a target="_blank" rel="noreferrer" href="https://twitter.com/gope_boni" class="social social-link"><i
-                            class="fab fa-twitter"></i></a>
-                    <a href="mailto: boni619@gmail.com" class="social social-link"><i class="fas fa-envelope"></i></a>
+                        <a target="_blank" rel="noreferrer" href="https://t.me/@tesfaymit" class="social social-link">
+                        <i class="fab fa-telegram"></i>
+                        </a>
+                    <a href="mailto: tesfay3814@gmail.com" class="social social-link"><i class="fas fa-envelope"></i></a>
                 </div>
                 <div class="copyrights text-center">
                     <p class="para">
