@@ -6,7 +6,7 @@
                         <h3 class="title-text text-uppercase">Hey, I am Tesfay👋</h3>
                         <h4 class="text-uppercase">I am a <span id="subheading">{{ typeValue }} <span class="blinking-cursor">|</span> <span class="cursor" :class="{ typing: typeStatus }">&nbsp;</span></span> </h4>
                         <hr>
-                        <p> Experienced web developer by developing different systems in MIT Mekelle institute of technology </p>
+                        <p>Experienced web developer by developing different systems in MIT Mekelle institute of technology </p>
                         <p data-aos="zoom-in" data-aos-duration="1500"> Passionate about exploring the edges of full stack, adept at building end-to-end web applications.</p>
                         <p   v-motion="{
       initial: {
@@ -60,13 +60,13 @@
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 banner-image">
-                      <Vue3Lottie :animationData="DeveloperJSON"  :speed="1" loop
-                            autoplay />
+                      <!-- <Vue3Lottie :animationData="DeveloperJSON"  :speed="1" loop autoplay /> -->
+                      <img class="profile" src="@/assets/img/profile/1.png" alt="">
                     </div>
 
                 </div>
             </div>
-        </section>
+      </section>
 </template>
 
 <script>
@@ -138,6 +138,10 @@ export default {
   -ms-animation: 1s blink step-end infinite;
   -o-animation: 1s blink step-end infinite;
   animation: 1s blink step-end infinite;
+}
+.profile{
+max-width: fit-content;
+max-height: fit-content;
 }
 @keyframes blink {
   from,

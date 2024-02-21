@@ -15,8 +15,8 @@
                                 </a>
                             </div>
                             <div class="title py-4">
-                                <h4 class="text-uppercase">JavaScript(Basic)</h4>
-                                <span class="text-secondary">Hackerrank</span>
+                                <h4 class="text-uppercase">SDLC</h4>
+                                <span class="text-secondary">MIT UNIVERSITY</span>
                             </div>
                         </div>
                     </div>
@@ -28,8 +28,8 @@
                                 </a>
                             </div>
                             <div class="title py-4">
-                                <h4 class="text-uppercase">JavaScript(Intermediate)</h4>
-                                <span class="text-secondary">Hackerrank</span>
+                                <h4 class="text-uppercase">Php with Lumen framework</h4>
+                                <span class="text-secondary">MIT UNIVERSITY</span>
                             </div>
                         </div>
                     </div>
@@ -41,21 +41,8 @@
                                 </a>
                             </div>
                             <div class="title py-4">
-                                <h4 class="text-uppercase">JavaScript Algorithms and Data Structures</h4>
-                                <span class="text-secondary">FreeCodeCamp</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 element-item globant">
-                        <div class="our-project">
-                            <div class="img">
-                                <a class="test-popup-link" @click="show(html)">
-                                    <img :src="html" alt="certificates-2" class="img-fluid" v-scrollanimation>
-                                </a>
-                            </div>
-                            <div class="title py-4">
-                                <h4 class="text-uppercase">HTML5</h4>
-                                <span class="text-secondary">NIIT</span>
+                                <h4 class="text-uppercase">Php with Lumen framework</h4>
+                                <span class="text-secondary">MIT UNIVERSITY</span>
                             </div>
                         </div>
                     </div>

@@ -42,16 +42,16 @@
                         <p class="skill-label">MySQL</p>
                     </div>
                     <div class="item col-4 col-md-3 col-lg-2 mb-3 mb-lg-5">
-                        <img class="shadow rounded-circle"  src="@/assets/img/skills/docker.svg" alt="docker">
-                        <p class="skill-label">Docker</p>
+                        <img class="shadow rounded-circle"  src="@/assets/img/skills/python.svg" alt="docker">
+                        <p class="skill-label">python</p>
                     </div>
                     <div class="item col-4 col-md-3 col-lg-2 mb-3 mb-lg-5">
-                        <img class="shadow rounded-circle"  src="@/assets/img/skills/aws.svg" alt="docker">
-                        <p class="skill-label">Aws</p>
+                        <img class="shadow rounded-circle"  src="@/assets/img/skills/wordpress.svg" alt="docker">
+                        <p class="skill-label">Wordpress</p>
                     </div>
                     <div class="item col-4 col-md-3 col-lg-2 mb-3 mb-lg-5">
-                        <img class="shadow rounded-circle"  src="@/assets/img/skills/azure.svg" alt="docker">
-                        <p class="skill-label">Azure Devops</p>
+                        <img class="shadow rounded-circle"  src="@/assets/img/skills/agile.svg" alt="agile">
+                        <p class="skill-label">AGILE</p>
                     </div>
                 </div>
             </div>
@@ -59,27 +59,6 @@
         <!--  ======================== End Production Skill Area ==============================  -->
 
         <!--  ========================Start Other Skill Area ==============================  -->
-        <section id="skills">
-            <div class="container">
-                <div class="col-lg-12 text-center services-title">
-                    <h3 class="text-uppercase title-text" style="font-size: 35px;">Other Relevant Skills</h3>
-                </div>
-                <div class="integration-list row justify-content-center py-5">
-                    <div class="item col-4 col-md-3 col-lg-2 mb-3 mb-lg-5">
-                        <img class="shadow rounded-circle"  src="@/assets/img/skills/agile.svg" alt="agile">
-                        <p class="skill-label">AGILE</p>
-                    </div>
-                    <div class="item col-4 col-md-3 col-lg-2 mb-3 mb-lg-5">
-                        <img class="shadow rounded-circle"  src="@/assets/img/skills/python.svg" alt="android">
-                        <p class="skill-label">Python</p>
-                    </div>
-                    <div class="item col-4 col-md-3 col-lg-2 mb-3 mb-lg-5">
-                        <img class="shadow rounded-circle"  src="@/assets/img/skills/wordpress.svg" alt="wordpress">
-                        <p class="skill-label">Wordpress</p>
-                    </div>
-                </div>
-            </div>
-        </section>
 </template>
 
 <script>

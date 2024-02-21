@@ -18,6 +18,22 @@
                   BSC Bachelor degree of science in Information technologies MEKELLE INSTITUTE OF TECHNOLOGY (MIT)
                 </a>
                 <span>2024</span>
+              </h4><br>
+              <h4 class="card-title mb-0 exp">
+                <i class="fas fa-school mr-2"></i>
+                <a data-parent="#faq-accordion" data-toggle="collapse" class="card-toggle collapsed"
+                  href="#education1" aria-expanded="false">
+                  BSC Bachelor degree of science in Information technologies MEKELLE INSTITUTE OF TECHNOLOGY (MIT)
+                </a>
+                <span>2024</span>
+              </h4><br>
+              <h4 class="card-title mb-0 exp">
+                <i class="fas fa-school mr-2"></i>
+                <a data-parent="#faq-accordion" data-toggle="collapse" class="card-toggle collapsed"
+                  href="#education1" aria-expanded="false">
+                  BSC Bachelor degree of science in Information technologies MEKELLE INSTITUTE OF TECHNOLOGY (MIT)
+                </a>
+                <span>2024</span>
               </h4>
             </div>
           </div>
