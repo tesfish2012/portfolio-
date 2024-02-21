@@ -11,5 +11,5 @@ echo 'www.tesfit.com' > CNAME
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:tesfish2012/portfolio-.git main
+git push -f git@github.com:tesfish2012/portfolio-.git 
 cd -
