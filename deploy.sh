@@ -7,9 +7,9 @@ npm run build
 cp dist/index.html dist/404.html
 cd dist
 # if you are deploying to a custom domain
-echo 'www.bonigope.com' > CNAME
+echo 'www.tesfit.com' > CNAME
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:Boni619/portfolio.git main:gh-pages
+git push -f git@github.com:tesfish2012/portfolio-.git main
 cd -
