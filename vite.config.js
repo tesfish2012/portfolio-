@@ -18,7 +18,7 @@ export default defineConfig({
       },
       manifest: {
         name: "Boni 💼",
-        short_name: 'Boni-Portfolio',
+        short_name: 'tesfay-portofolio',
         description: 'a webpage to showcase my experience, education, skill-set, projects, certificates, achievements and recommendations.',
         theme_color: '#ffffff',
         icons: [
