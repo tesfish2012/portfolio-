@@ -1,15 +1,4 @@
 <template>
-  <div  v-for="(section, index) in Object.keys(entries)" :key="index">
-  <div class="blog-container"  v-for="entry in entries[section]" :key="entry.id" >
-    <div class="blog-square">
-      <h3 class="blog-title">{{entry.title}}</h3>
-      <p class="blog-description">{{entry.description}}</p>
-      <div class="button-box">
-                <a @click="$router.push({name: entry.id})" target="_" class="blog-button">Read More</a>
-            </div>
-     </div>
-   </div>
-  </div>
 </template>
 
 <script>

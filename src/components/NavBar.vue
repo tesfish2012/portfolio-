@@ -30,7 +30,7 @@
                             <a class="nav-link" @click="scroll('certificates')">Certificates</a>
                         </li>
                         <li class="nav-item">
-                          <router-link :to="{name: 'Blog'}" class="nav-link">Blog</router-link>
+                          <router-link :to="{name: 'Blog'}" class="nav-link">Contact Me</router-link>
                         </li>
                         <li class="nav-item" v-if="$route?.meta?.hideLink === undefined">
                             <a class="nav-link" rel="noreferrer" href="https://github.com/tesfish2012"
